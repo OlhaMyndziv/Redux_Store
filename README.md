@@ -2,7 +2,9 @@
 
 In this unit, you learned how to manage global state using React’s Context API. The Context API is quickly gaining traction as a worthy alternative or perhaps even successor to other libraries that manage global state in tandem with React, such as Flux or MobX. Nonetheless, the open source JavaScript library Redux remains the industry standard for managing complex state in a large-scale React application, and you’ll likely encounter it on the job.
 
-[Link to deployed application]()
+[Link to deployed application](https://boiling-taiga-90679.herokuapp.com/)
+
+![alt text](assets/images/screenshot.png)
 
 ## Table Of Content
 * [User Story](#user-story)
